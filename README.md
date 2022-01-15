@@ -8,4 +8,4 @@ Team Members:
 2. Monish K (1NT18CS100)
 3. A S Prithvi Raj (1NT18CS001)
 
-- [] ##Dataset : https://www.kaggle.com/datasnaek/mbti-type
+- [ ] ##Dataset : https://www.kaggle.com/datasnaek/mbti-type
